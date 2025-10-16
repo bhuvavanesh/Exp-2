@@ -1,10 +1,39 @@
-# Exp - 2 LIBRARY MANAGEMENT SYSTEM
+# EXP 02- LIBRARY MANAGEMENT SYSTEM
 
 # AIM:
 
+To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
+
 # SRS (Procedure):
 
+To create Library Management System software that will meet the needs of the applicant and help them to registering and buy the book for the Library, modification in database and cancellation for the registered project.
+
 # DIAGRAMS:
-(upload all 6 diagrams)
+
+## USE CASE:
+
+<img width="1124" height="912" alt="image" src="https://github.com/user-attachments/assets/304b1b57-8206-43fb-82c7-4931c7a5ec81" />
+
+## CLASS DIAGRAM:
+
+<img width="1023" height="736" alt="image" src="https://github.com/user-attachments/assets/5abe0f27-04d4-417c-91de-ab14ddc671b7" />
+
+## COMMUNICATION DIAGRAM:
+
+<img width="1105" height="760" alt="image" src="https://github.com/user-attachments/assets/f6397f7d-9270-4a2f-ac4f-f4633b83d350" />
+
+## ACTIVITY DIAGRAM:
+
+<img width="783" height="1012" alt="image" src="https://github.com/user-attachments/assets/f7d070b8-1eeb-4d00-ba7f-21966fa573b1" />
+
+## SEQUENCE DIAGRAM:
+
+<img width="879" height="1003" alt="image" src="https://github.com/user-attachments/assets/984ad0a6-47f7-4069-95be-ce90e1f99e76" />
+
+## PACKAGE DIAGRAM:
+
+<img width="780" height="639" alt="image" src="https://github.com/user-attachments/assets/54ae7b5e-50e1-4d48-85ce-7b2974cbc2a0" />
 
 # RESULT:
+
+Thus the Library management system project was executed and the output was verified.
