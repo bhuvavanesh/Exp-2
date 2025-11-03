@@ -6,7 +6,31 @@ To study the problem statement, SRS document and draw all the UML diagrams of a 
 
 # SRS (Procedure):
 
-To create Library Management System software that will meet the needs of the applicant and help them to registering and buy the book for the Library, modification in database and cancellation for the registered project.
+## Step 1: Problem Identification
+
+Manual library operations like issuing, returning, and tracking books are time-consuming and prone to errors. The system aims to automate these processes.
+
+## Step 2: Requirement Analysis
+
+Identify user roles: Admin, Librarian, Student.      
+Define main functions: Add books, issue/return books, search books, manage members, generate reports.     
+Set non-functional needs: reliability, security, and easy interface.    
+
+## Step 3: System Design
+
+Draw UML diagrams: Use Case, Class, Activity, Sequence, and Package diagrams.      
+Design database tables for Books, Members, Transactions, and Staff.      
+
+## Step 4: Implementation
+
+Develop the system using C / Java / Python / Web application.      
+Connect to the database (MySQL/SQLite).      
+Implement modules for issuing, returning, and searching books.      
+
+## Step 5: Testing
+
+Test all modules for accuracy and data consistency.      
+Check error handling for unavailable or overdue books.        
 
 # DIAGRAMS:
 
