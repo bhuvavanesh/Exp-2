@@ -21,20 +21,10 @@ Set non-functional needs: reliability, security, and easy interface.
 Draw UML diagrams: Use Case, Class, Activity, Sequence, and Package diagrams.      
 Design database tables for Books, Members, Transactions, and Staff.      
 
-## Step 4: Implementation
 
-Develop the system using C / Java / Python / Web application.      
-Connect to the database (MySQL/SQLite).      
-Implement modules for issuing, returning, and searching books.      
+# UML DIAGRAMS:
 
-## Step 5: Testing
-
-Test all modules for accuracy and data consistency.      
-Check error handling for unavailable or overdue books.        
-
-# DIAGRAMS:
-
-## USE CASE:
+## USECASE DIAGRAM:
 
 <img width="1124" height="912" alt="image" src="https://github.com/user-attachments/assets/304b1b57-8206-43fb-82c7-4931c7a5ec81" />
 
